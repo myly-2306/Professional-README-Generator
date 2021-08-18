@@ -9,7 +9,6 @@
 * [Usage](#Usage)
 * [Lisence](#Lisence)
 * [Contributors](#Contributors)
-* [Test](#Test)
 * [Questions](#Questions)
 
 ## Description
